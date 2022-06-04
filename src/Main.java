@@ -7,7 +7,7 @@ class Main {
     
     System.out.println("******************** DUOTECH BANK ACCOUNT MANAGEMENT APPLICATION  hhhh ********************");
 		System.out.println("-------------------------------------------------------------------------------------");
-
+////scjsjcskcscksckskcsk
     Scanner inp =new Scanner(System.in);
     String add = "";
      
