@@ -26,7 +26,7 @@ public class Savings extends Account{
 
     public void setSafetyDepositBoxPin(int safetyDepositBoxPin) {
         this.safetyDepositBoxPin = safetyDepositBoxPin;
-      
+
     }
 
     public double setInterestRate(){
